@@ -30,3 +30,9 @@ Then Update the code :
 
 ![3](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/ecb1a391-1f4f-4607-b2e6-a669096fec7b)
 ![4](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/2829bfc7-4668-4e3a-abcc-10f40c69409f)
+
+
+# The Result:
+
+![1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/33e29e21-b08e-4230-97be-3c4bdb1373bc)
+![2](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/a7d94909-7091-4cd3-b35d-458953834130)
