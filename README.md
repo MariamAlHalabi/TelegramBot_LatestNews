@@ -19,7 +19,8 @@ To get the user ID:
 
 Then Update the code :
 
-
+![1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/9ea117ac-26c6-4959-89a4-6aab1ba07f03)
+![2](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/d7c97671-aac3-4a54-b376-adfd7560f7de)
 
 # The Result:
 
