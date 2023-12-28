@@ -3,6 +3,6 @@ This project is about developing a personalized Telegram bot to receive up-to-da
 # How it works?
 First : Create a bot
 
-Second : update the script files with the telegram API key
+Second : update the script files with the telegram API key and user chat ID
 
 Note :there is two API first one for telegram bot and the second News API to get the latest news
