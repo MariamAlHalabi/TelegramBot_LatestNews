@@ -1,6 +1,6 @@
 #!/bin/bash
-API_TOKEN='6583163605:AAGynAGHrh13pjGgFBzH3zq0mmDsrOYvXwI'
-USER_CHAT_ID='6450340659'
+API_TOKEN='<Add here Your API key>'
+USER_CHAT_ID='<Add Your User Chat ID>'
 MESSAGE_TEXT=$(./get_news.sh)
 
 # Check if the message length exceeds the limit
