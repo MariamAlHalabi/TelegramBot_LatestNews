@@ -21,3 +21,12 @@ send /token to get the API Key
 ![4](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/52b5b066-c367-4188-a7b5-cf4f6756e42c)
 
 # Step 2: Update the Bash Script files with user chat ID and API generated
+
+To get the user ID:
+
+![2](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/34d298a6-90e8-4303-9d8a-c9225990fb0a)
+
+Then Update the code :
+
+![3](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/ecb1a391-1f4f-4607-b2e6-a669096fec7b)
+![4](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/2829bfc7-4668-4e3a-abcc-10f40c69409f)
