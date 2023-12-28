@@ -36,3 +36,15 @@ Then Update the code :
 
 ![1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/33e29e21-b08e-4230-97be-3c4bdb1373bc)
 ![2](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/a7d94909-7091-4cd3-b35d-458953834130)
+
+# To automatically get updated news 
+
+run command : crontab -e
+then write : * * * * * path of the bash script 
+
+# Git Hub Upload Screenshots
+
+![github1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/74ddf865-7b94-47cb-8c4c-87266dd3ff7d)
+![github2](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/9858462b-8984-4d79-8cd9-e9e9db40c2a5)
+
+
