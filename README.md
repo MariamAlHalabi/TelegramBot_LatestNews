@@ -33,9 +33,9 @@ Second : update the script files with the telegram API key and user chat ID
 
 # To automatically get updated news 
 
-run command : crontab -e
+1- In the terminal run command : crontab -e
 
-then write : * * * * * path of the bash script 
+2- Write : * * * * * \path of the bash script 
 
 # Git Hub Upload Screenshots
 
