@@ -40,6 +40,7 @@ Then Update the code :
 # To automatically get updated news 
 
 run command : crontab -e
+
 then write : * * * * * path of the bash script 
 
 # Git Hub Upload Screenshots
