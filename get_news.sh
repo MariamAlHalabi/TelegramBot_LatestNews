@@ -1,5 +1,5 @@
 #!/bin/bash
-API_TOKEN='6583163605:AAGynAGHrh13pjGgFBzH3zq0mmDsrOYvXwI'
+API_TOKEN='<Add Here Your API Key>'
 # Make a request to get updates (messages) from the bot
 response=$(curl -s "https://api.telegram.org/bot$API_TOKEN/getUpdates")
 API_KEY="f9a8cdf6ba5a4becab5cfd5b70c59448"
