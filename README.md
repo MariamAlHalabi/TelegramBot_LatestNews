@@ -20,4 +20,4 @@ send /token to get the API Key
 
 ![4](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/52b5b066-c367-4188-a7b5-cf4f6756e42c)
 
-# Uodate the Bash Script files with user chat ID and API generated
+# Step 2: Update the Bash Script files with user chat ID and API generated
