@@ -40,6 +40,6 @@ Second : update the script files with the telegram API key and user chat ID
 # Git Hub Upload Screenshots
 
 ![github1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/74ddf865-7b94-47cb-8c4c-87266dd3ff7d)
-![github2](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/9858462b-8984-4d79-8cd9-e9e9db40c2a5)
+![github3](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/527ff5ef-8b02-4482-8f37-45d358df6591)
 
 
