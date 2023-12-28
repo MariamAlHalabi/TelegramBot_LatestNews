@@ -8,9 +8,6 @@ Second : update the script files with the telegram API key and user chat ID
 Note : There is two API first one for telegram bot and the second News API to get the latest news
 # Step 1: Create Your Own Bot 
 Search for BotFather in your contacts then send /start
-
-![1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/df580080-2ddb-479f-b402-01613094790d)
-
 Now create new bot
 send /token to get the API Key
 
