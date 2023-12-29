@@ -38,8 +38,7 @@ Second : update the script files with the telegram API key and user chat ID
 2- Write : * * * * * \path of the bash script 
 
 # Git Hub Upload Screenshots
-
-![github1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/74ddf865-7b94-47cb-8c4c-87266dd3ff7d)
+![github1](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/70802eac-9779-463e-83a1-4df76ddd8801)
 ![github3](https://github.com/MariamAlHalabi/TelegramBot_LatestNews/assets/146833815/527ff5ef-8b02-4482-8f37-45d358df6591)
 
 
